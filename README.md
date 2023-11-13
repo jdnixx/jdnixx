@@ -1,10 +1,11 @@
-### Hi there 👋
+
 
 I'm a software engineer who likes simplicity and speed in design. Currently seeking employment.
 
 Specializing in .NET/C#, and experienced in many other areas of tech: hardware, software, security/cryptography, and everything that has to do with those. Quick to figure out whatever else I need along the way.
 
-[mailto:johnchaneymail@gmail.com](johnchaneymail@gmail.com)
+johnchaneymail@gmail.com
+
 
 <!--
 **jdnixx/jdnixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
